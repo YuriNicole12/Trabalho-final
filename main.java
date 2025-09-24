@@ -1,4 +1,4 @@
-package main;
+package com.mycompany.trabalho;
 
 import model.Disciplina;
 import model.Nota;
