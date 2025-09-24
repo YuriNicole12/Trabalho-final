@@ -1,0 +1,13 @@
+Projeto
+│
+├── src
+│   └── main
+│       ├── Main.java  
+│       ├── controller
+│       ├── model
+│       │   ├── Disciplina.java
+│       │   ├── Nota.java
+│       │   ├── Tarefa.java
+│       │   ├── Trabalho.java
+│       │   └── Usuario.java
+│       └── view
