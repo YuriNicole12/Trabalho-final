@@ -13,8 +13,8 @@ public class Main {
 
         // criar uma nova tarefa
         Tarefa tarefa = new Tarefa();
-        tarefa.setTitulo("Estudar para a prova de Java");
-        tarefa.setDescricao("Estudar os conceitos de OOP e Collections");
+        tarefa.setTitulo("estudo dirigido de provas");
+        tarefa.setDescricao("estudar os conceitos base estabelecidos");
         tarefa.setPrazo(new Date()); // definir a data de prazo
         tarefa.setStatus("Pendente");
         tarefa.setCurso("Sistemas de Informação");
